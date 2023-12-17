@@ -6,6 +6,9 @@ main,header{
 }
 .opaciti{
     opacity: 20%;
+} 
+audio{
+    display: none;
 }
 #text {
     position: absolute;
